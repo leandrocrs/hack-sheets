@@ -1,4 +1,4 @@
-```
+```sh
 // baixe e obtenha detalhes das imagens em (https://hub.docker.com/) 
  
 docker run nome_imagem comando // roda ou baixa a imagem desejada e executa o comando a partir dela 
